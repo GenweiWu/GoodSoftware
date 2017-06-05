@@ -1,4 +1,4 @@
-# GoodEditor
+# GoodSoftware
 软件的使用技巧
 
 ## IntelliJ IDEA使用技巧
