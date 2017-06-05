@@ -1,5 +1,5 @@
 # GoodEditor
-好用的idea编辑器的使用技巧
+软件的使用技巧
 
 ## IntelliJ IDEA使用技巧
 - [调整java进行import时的顺序，跟eclipse默认的一致：](https://stackoverflow.com/a/17194980/6182927)
@@ -20,3 +20,8 @@
     Maven: org.apache.tomcat.embed:tomcat-embed-jasper 
   ```
    
+## slickrun使用技巧
+- 使用指定浏览器打开对应url  
+   > Instead of including the website link in the "Filename" field, type the link in "parameters" field. In the "filename" field give the browser details such as "chrome" for google chrome, "iexplore" for IE.    
+   
+   参考[How to launch some links in particular browser using slickrun](https://stackoverflow.com/a/6545239/6182927)  
