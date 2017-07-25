@@ -11,3 +11,5 @@
    > Instead of including the website link in the "Filename" field, type the link in "parameters" field. In the "filename" field give the browser details such as "chrome" for google chrome, "iexplore" for IE.    
    
    参考[How to launch some links in particular browser using slickrun](https://stackoverflow.com/a/6545239/6182927)  
+
+## 清理硬盘垃圾：CCleaner
