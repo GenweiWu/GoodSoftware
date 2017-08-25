@@ -7,6 +7,11 @@
 - [远程调试](http://lohasle.iteye.com/blog/1866139)
 - [同时打开多个maven项目](https://stackoverflow.com/a/14637761/6182927)
 
+## VSCode
+- [使用gitbash作为控制台](https://github.com/Microsoft/vscode/issues/7690)
+  > "terminal.integrated.shell.windows": "C:\Program Files\Git\bin\bash.exe",
+
+
 ## slickrun使用技巧
 - 使用指定浏览器打开对应url  
    > Instead of including the website link in the "Filename" field, type the link in "parameters" field. In the "filename" field give the browser details such as "chrome" for google chrome, "iexplore" for IE.    
