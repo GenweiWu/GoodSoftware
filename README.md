@@ -10,7 +10,8 @@
 ## VSCode
 - [使用gitbash作为控制台](https://github.com/Microsoft/vscode/issues/7690)
   > "terminal.integrated.shell.windows": "C:\Program Files\Git\bin\bash.exe",
-
+- 使用eclipse相同的快捷键 
+  > [Eclipse Keymap](https://marketplace.visualstudio.com/items?itemName=alphabotsec.vscode-eclipse-keybindings)
 
 ## slickrun使用技巧
 - 使用指定浏览器打开对应url  
