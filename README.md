@@ -31,3 +31,5 @@
 > Wrench icon (top-right) -> Settings -> Data tab -> Export Data -> Download
 > This will create a single json file with all your collections.
 > https://stackoverflow.com/a/39530925
+
+## chrome 程序员开发调试利器
