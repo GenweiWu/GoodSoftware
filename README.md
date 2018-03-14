@@ -32,4 +32,4 @@
 > This will create a single json file with all your collections.
 > https://stackoverflow.com/a/39530925
 
-## [chrome 程序员开发调试利器](./bag/chrome.md)
+## [程序员开发调试利器: chrome](./bag/chrome.md)
