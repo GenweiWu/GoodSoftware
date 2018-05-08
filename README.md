@@ -6,7 +6,7 @@
 - [好用的编程字体](https://github.com/yakumioto/YaHei-Consolas-Hybrid-1.12)
 - [远程调试](http://lohasle.iteye.com/blog/1866139)
 - [同时打开多个maven项目](https://stackoverflow.com/a/14637761/6182927)
-- [展示所有rest请求，并且可以根据请求url搜索对应的方法](https://plugins.jetbrains.com/plugin/10292-restfultoolkit)
+- [插件(RestfulToolkit): 展示所有rest请求，并且可以根据请求url搜索对应的方法](https://plugins.jetbrains.com/plugin/10292-restfultoolkit)
 
 ## VSCode
 - [使用gitbash作为控制台](https://github.com/Microsoft/vscode/issues/7690)  
