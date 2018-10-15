@@ -29,7 +29,7 @@
 ## 磁盘碎片整理：smart-defrag
 ## java性能问题分析  JProfiler
 ## 找出磁盘上的大文件  SpaceSniffer
-## 方便快捷进行rest请求:postman
+## [方便快捷进行rest请求:postman](./bag/postman.md)
 
 > The answers above work well if you only want to export one collection.
 > If you have many collections and want to export them all, there's a better way:
