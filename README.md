@@ -38,3 +38,6 @@
 > https://stackoverflow.com/a/39530925
 
 ## [程序员开发调试利器: chrome](./bag/chrome.md)
+## Markdown 编辑器windows
+- 可以直接贴图片
+- 有控制台可以打开
