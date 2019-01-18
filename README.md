@@ -41,3 +41,6 @@
 
 ## markdown windows
 > https://typora.io
+- 编辑即时预览,很赞
+- 图片粘贴即用
+- 支持控制台(类似chrome-dev-tool)
