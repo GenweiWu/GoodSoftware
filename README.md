@@ -6,8 +6,12 @@
 - [好用的编程字体](https://github.com/yakumioto/YaHei-Consolas-Hybrid-1.12)
 - [远程调试](http://lohasle.iteye.com/blog/1866139)
 - [同时打开多个maven项目](https://stackoverflow.com/a/14637761/6182927)
-- [插件(RestfulToolkit): 展示所有rest请求，并且可以根据请求url搜索对应的方法](https://plugins.jetbrains.com/plugin/10292-restfultoolkit)
 - [调整选中效果](https://stackoverflow.com/a/26352646/6182927)
+- 插件推荐 
+  - [codeglance](https://plugins.jetbrains.com/plugin/7275-codeglance)
+  - [插件(RestfulToolkit): 展示所有rest请求，并且可以根据请求url搜索对应的方法](https://plugins.jetbrains.com/plugin/10292-restfultoolkit)
+  - grep console 优化控制台展示
+
 
 ## [VSCode](./vscode.md)
 
