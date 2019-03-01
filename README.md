@@ -12,6 +12,11 @@
   - [插件(RestfulToolkit): 展示所有rest请求，并且可以根据请求url搜索对应的方法](https://plugins.jetbrains.com/plugin/10292-restfultoolkit)
   - grep console 优化控制台展示
 
+## Webstorm
+- 隐藏特定格式的文件
+    ```
+    Settings | File Types | Files and folders to ignore
+    ```
 
 ## [VSCode](./vscode.md)
 
