@@ -18,6 +18,14 @@
     ```
     Settings | File Types | Files and folders to ignore
     ```
+- [es6 import格式调整](https://stackoverflow.com/a/41143964)  
+    ```
+    import {xxx} from "yyy"
+    I want to change the format to
+    import { xxx } from 'yyy'
+    ```
+    
+    
 
 ## [VSCode](./vscode.md)
 
