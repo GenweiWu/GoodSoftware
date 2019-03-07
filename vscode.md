@@ -21,3 +21,6 @@
     "**/*.spec.ts": true
 }
 ```
+
+## 插件推荐
+－ [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
