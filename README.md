@@ -55,3 +55,6 @@
 - 编辑即时预览,很赞
 - 图片粘贴即用
 - 支持控制台(类似chrome-dev-tool)
+
+## [tamperMonkey](./bag/tampermonkey.md)
+> 自定义脚本hi起来
