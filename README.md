@@ -56,3 +56,4 @@
 - 图片粘贴即用
 - 支持控制台(类似chrome-dev-tool)
 
+## sftp工具：[filezilla](https://filezilla-project.org/)
