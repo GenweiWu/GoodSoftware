@@ -12,6 +12,7 @@
   - [插件(RestfulToolkit): 展示所有rest请求，并且可以根据请求url搜索对应的方法](https://plugins.jetbrains.com/plugin/10292-restfultoolkit)
   - grep console 优化控制台展示
   - Free Mybatis plugin(优化Mybatis使用体验)
+- 展示idea运行日志，比如你点击maven reimport没反应，你可以 (Help | Show log..).
 
 ## Webstorm
 - 隐藏特定格式的文件
