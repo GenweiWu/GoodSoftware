@@ -4,6 +4,7 @@
 ## IntelliJ IDEA使用技巧
 - [调整java进行import时的顺序，跟eclipse默认的一致：](https://stackoverflow.com/a/17194980/6182927)
 - [好用的编程字体](https://github.com/yakumioto/YaHei-Consolas-Hybrid-1.12)
+- [好用的编程字体2](https://github.com/tonsky/FiraCode)
 - [远程调试](http://lohasle.iteye.com/blog/1866139)
 - [同时打开多个maven项目](https://stackoverflow.com/a/14637761/6182927)
 - [调整选中效果](https://stackoverflow.com/a/26352646/6182927)
