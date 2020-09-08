@@ -14,6 +14,7 @@
   - grep console 优化控制台展示
   - Free Mybatis plugin(优化Mybatis使用体验)
 - 展示idea运行日志，比如你点击maven reimport没反应，你可以 (Help | Show log..).
+- [国际化文件properties中文显示问题](https://my.oschina.net/LevelCoder/blog/1625594)：打开idea配置文件 File Encodings >> 勾选 Transparent native-to conversion
 
 ## Webstorm
 - 隐藏特定格式的文件
