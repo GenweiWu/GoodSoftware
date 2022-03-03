@@ -60,3 +60,5 @@
 - 支持控制台(类似chrome-dev-tool)
 
 ## sftp工具：[filezilla](https://filezilla-project.org/)
+
+## 数据库工具:[navicat](https://www.navicat.com/en/)
