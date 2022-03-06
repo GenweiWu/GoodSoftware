@@ -62,3 +62,8 @@
 ## sftp工具：[filezilla](https://filezilla-project.org/)
 
 ## 数据库工具:[navicat](https://www.navicat.com/en/)
+
+## 截图软件
+
+[faststone capture 地址供参考](https://faststone-capture.en.softonic.com/)  
+[snipaste](https://www.snipaste.com/)  
