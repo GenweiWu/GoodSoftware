@@ -10,3 +10,12 @@ Chrome使用
   
 ## 3. 离线下载chrome插件
 https://chrome-extension-downloader.com/
+
+
+## 插件推荐
+
+- onetab 多标签 
+- adblock plus  广告拦截
+- Proxy SwitchyOmega 代理切换
+- Chrono 下载管理器
+- crxMouse 手势快捷键
