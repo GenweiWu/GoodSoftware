@@ -67,3 +67,7 @@
 
 [faststone capture 地址供参考](https://faststone-capture.en.softonic.com/)  
 [snipaste](https://www.snipaste.com/)  
+
+## uml画图：plantuml
+https://plantuml.com/zh/sequence-diagram
+
