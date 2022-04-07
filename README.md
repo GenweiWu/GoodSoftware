@@ -10,9 +10,11 @@
 - [调整选中效果](https://stackoverflow.com/a/26352646/6182927)
 - 插件推荐 
   - [codeglance](https://plugins.jetbrains.com/plugin/7275-codeglance)
-  - [插件(RestfulToolkit): 展示所有rest请求，并且可以根据请求url搜索对应的方法](https://plugins.jetbrains.com/plugin/10292-restfultoolkit)
+  - ~~[插件(RestfulToolkit): 展示所有rest请求，并且可以根据请求url搜索对应的方法](https://plugins.jetbrains.com/plugin/10292-restfultoolkit)~~
+  - [restfultool](https://plugins.jetbrains.com/plugin/14280-restfultool)
   - grep console 优化控制台展示
-  - Free Mybatis plugin(优化Mybatis使用体验)
+  - ~~Free Mybatis plugin(优化Mybatis使用体验)~~
+  - [mybatisx](https://plugins.jetbrains.com/plugin/10119-mybatisx)
 - 展示idea运行日志，比如你点击maven reimport没反应，你可以 (Help | Show log..).
 - [国际化文件properties中文显示问题](https://my.oschina.net/LevelCoder/blog/1625594)：打开idea配置文件 File Encodings >> 勾选 Transparent native-to conversion
 
