@@ -73,3 +73,5 @@
 ## uml画图：plantuml
 https://plantuml.com/zh/sequence-diagram
 
+## [录制gif]gif cam  
+https://gifcam.en.softonic.com/  
